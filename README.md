@@ -8,7 +8,7 @@
     <img alt="Made by Carlos Henrique" src="https://img.shields.io/badge/made%20by-caarloshenrique-%2304D361">
   </a>
   <a href="https://github.com/caarloshenrique/mais-todos-challenge-frontend-react/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/caarloshenrique/mais-todos-challenge-frontend-react/">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/caarloshenrique/mais-todos-challenge-frontend-react">
   </a>
   <img alt="License" src="https://img.shields.io/github/license/caarloshenrique/mais-todos-challenge-frontend-react">
 </p>
