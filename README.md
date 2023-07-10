@@ -108,7 +108,7 @@ npm run dev
 
 ### :art: Front-end
 
-Acessando a o repositório do Back-end
+Acessando a o repositório do Front-end
 
 ```
 cd mais-store-app
