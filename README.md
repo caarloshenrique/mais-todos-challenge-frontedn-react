@@ -22,7 +22,7 @@
 <p align="center">
   <a href="#computer-sobre-o-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#gear-funcionalidades">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#dart-o-que-pode-ser-melhorado?">Melhorias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#dart-o-que-pode-ser-melhorado">Melhorias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-tecnologias-utilizadas">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#clipboard-pré-requisitos">Requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#zap-executando-a-aplicação">Execução</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -47,7 +47,7 @@ MaisStore é um desafio proposto pela MaisTodos. O desafio propõe o desenvolvim
 <p>:pushpin: Utilização de react-query para compartilhamento de dados;</p>
 <p>:pushpin: Implementação de testes end to end para as páginas;</p>
 
-Observação: alguns itens não foram implementados por falta de tempo hábil.
+_Observação_: alguns itens não foram implementados por falta de tempo hábil.
 
 ## :rocket: Tecnologias utilizadas
 
