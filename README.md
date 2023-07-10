@@ -47,7 +47,7 @@ MaisStore é um desafio proposto pela MaisTodos. O desafio propõe o desenvolvim
 <p>:pushpin: Utilização de react-query para compartilhamento de dados;</p>
 <p>:pushpin: Implementação de testes end to end para as páginas;</p>
 
-_Observação_: alguns itens não foram implementados por falta de tempo hábil.
+**Observação:** alguns itens não foram implementados por falta de tempo hábil.
 
 ## :rocket: Tecnologias utilizadas
 
