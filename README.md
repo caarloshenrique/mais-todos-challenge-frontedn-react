@@ -2,7 +2,7 @@
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/caarloshenrique/mais-todos-challenge-frontend-react?color=%2304D361">
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/caarloshenrique/mais-todos-challenge-frontend-react">
   <a href="https://github.com/caarloshenrique/mais-todos-challenge-frontend-react/master">
-    <img alt="Last commit" src="https://img.shields.io/github/last-commit/caarloshenrique/frontend-challenge-leiloapp/master">
+    <img alt="Last commit" src="https://img.shields.io/github/last-commit/caarloshenrique/mais-todos-challenge-frontend-react/master">
   </a>
   <a href="https://www.linkedin.com/in/carlos-henrique-costa-silva/">
     <img alt="Made by Carlos Henrique" src="https://img.shields.io/badge/made%20by-caarloshenrique-%2304D361">
@@ -55,7 +55,6 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - [Styled Components](https://styled-components.com/)
 - [Yup](https://github.com/jquense/yup)
 - [Unform](https://github.com/unform/unform)
-  {...}
 
 ## :clipboard: Pré-requisitos
 
@@ -70,31 +69,31 @@ Para executar esta aplicação em seu dispositivo no modo de desenvolvimento voc
 Acessando a o repositório do Back-end
 
 ```
-$ cd mais-store-api
+cd mais-store-api
 ```
 
 Instalando as dependências do projeto
 
 ```
-$ npm install
+npm install
 ```
 
 Criando a estrutura do banco de dados
 
 ```
-$ npm run knex:migrate
+npm run knex:migrate
 ```
 
 Alimentando o banco de dados com produtos pré-cadastrados
 
 ```
-$ npm run knex:seed
+npm run knex:seed
 ```
 
 Executando a aplicação
 
 ```
-$ npm run dev
+npm run dev
 ```
 
 ### :art: Front-end
@@ -102,19 +101,19 @@ $ npm run dev
 Acessando a o repositório do Back-end
 
 ```
-$ cd mais-store-app
+cd mais-store-app
 ```
 
 Instalando as dependências do projeto
 
 ```
-$ yarn
+yarn
 ```
 
 Executando a aplicação
 
 ```
-$ yarn start
+yarn start
 ```
 
 ## :page_facing_up: Licença
